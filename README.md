@@ -1,7 +1,6 @@
 # 👾 QuickDrop Game (Pygame) 🍬
 
-![Catch the Objects Game Demo](https://via.placeholder.com/600x350?text=Screenshot+or+GIF+of+Catch+the+Objects+Game+in+Action)
-*(Replace this placeholder image link with an actual screenshot or, ideally, an animated GIF of your Catch the Objects game running!)*
+![Catch the Objects Game Demo](https://github.com/leilas25/QuickDrop-Game/blob/main/Screenshot%20(612).png?raw=true)
 
 ---
 
